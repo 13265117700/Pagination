@@ -73,7 +73,6 @@ const PAGE = {
       <a href="javascript:;" class="paging-amount">共${number}页</a>
     `
 
-
     $('#page-mainer').html(mainerItem)
     $('.paging-middle-list').html(pagingMiddle)
     $('.paging-allnumber').html(allNumber)
